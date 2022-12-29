@@ -408,7 +408,7 @@ color: #E04D01;
 
     .menu .box-container .box img{
         flex-direction: column;
-        height: 200px;
-        width: 300px;
+        height: 180px;
+        width: 250px;
     }
 }

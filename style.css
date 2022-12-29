@@ -325,6 +325,7 @@ color: #E04D01;
     .home .content p{
         font-size: 20px;
         flex-direction: column;
+        font-family: 'cooper';
     }
 }
 
@@ -373,12 +374,14 @@ color: #E04D01;
 
     .heading{
         font-size: 30px;
+        font-family: 'cooper';
     }
 
     
     .logo{
         font-size: 30px;
         flex-direction: column;
+        font-family: 'cooper';
     }    
 
     .navbar a{
@@ -386,6 +389,7 @@ color: #E04D01;
         display: inline-block;
         flex-direction: column;
         margin: 0 10px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 
     .home .content h1{
